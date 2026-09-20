@@ -1,0 +1,6 @@
+{
+  "name": "Ojek Olumajang",
+  "description": "Aplikasi layanan transportasi modern Ojek Olumajang - Bersama Menggerakkan Lumajang",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
